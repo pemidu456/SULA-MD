@@ -7,11 +7,11 @@
 
   "env": {
     "SESSION_ID": {
-      "description": "Put the session-id here.",
+      "description": "𝐒𝐔𝐋𝐀-𝐌𝐃=4jMRzRhS#e7f5EAydaxTH42G-PTX9j0gtk0XpoJclGMdl42uXGY4",
       "required": true
     },
  "NEWS_SEND_JID": {
-      "description": "Put the jid channel or group",
+      "description": "https://chat.whatsapp.com/FhKhhTu4BfYCSQP5U52HAF?mode=r_t",
       "required": false
     },
 "AUTO_NEWS_SENDER": {
@@ -19,7 +19,7 @@
       "required": false
     } ,
 "TIKTOK_SEND_JID": {
-      "description": "Put the jid channel or group",
+      "description": "https://chat.whatsapp.com/FhKhhTu4BfYCSQP5U52HAF?mode=r_t",
       "required": false
     } ,
     "AUTO_TIKTOK_SENDER": {
